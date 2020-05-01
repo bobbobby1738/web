@@ -1,0 +1,230 @@
+#title {background-color:#ff4c68; 
+    text-align: center;
+    
+}
+h1 { font-family: Montserrat;
+font-size: 3.5rem;
+line-height: 1.5;
+font-weight: 800;
+color: aliceblue;
+}
+
+
+h3 { font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: aliceblue;}
+
+h2 {
+    color: aliceblue;
+    font-size: 2.5rem;
+}
+
+p { color: wheat ;}
+.container-fluid{ 
+    
+
+
+
+
+}
+
+
+/*top image*/
+.doginphone { transform: rotate(30deg);
+    width: 60%;
+    position: absolute;
+    left: 30px;
+}
+
+
+
+
+/* body*/
+body {font-family: Montserrat;
+  
+    
+   
+}
+/*Nav bar css*/
+.navbar{padding-bottom: 4rem;
+padding-left: 0;}
+
+
+.navbar-brand{
+
+    font-family: ubuntu;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item{padding: 0 20px;}
+
+.nav-link {font-family: montserrat-light;
+font-size: 1.2rem;
+
+}
+/*top di button*/
+.download-button{margin: 5% 3% 5% 0;}
+
+
+/*part 2*/
+.feature-box {font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+padding: 3%;
+
+
+
+
+
+}
+
+
+#features { padding: 7% 15%;
+background-color: #e9546a;
+position: relative;
+}
+
+.icon { color: #ef8172;
+padding-bottom: 20px;}
+
+.icon:hover { color:#ff4c68}
+
+
+
+
+/* testomonials*/
+
+#testimonials {
+    background-color: #ff4c68;
+    text-align: center;
+
+}
+
+.carousel-item {
+    padding: 7% 15%;
+
+}
+.dog { color: aliceblue;
+
+
+
+}
+
+.doggypic { border-radius: 100%;
+    padding-right: 30px;
+    padding-top: 20px;
+    width: 20%;
+
+
+
+}
+.testimonial-image { border-radius: 100%;
+    padding-right: 30px;
+    padding-top: 20px;
+    width: 20%;
+
+
+
+
+}
+.person { color: aliceblue;}
+
+
+
+/* press*/
+
+#press { 
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+
+
+}
+
+.logos { width: 15%;
+    margin: 10px;
+}
+
+/*pricing*/
+
+
+
+.row { 
+    padding: 7% 12% ;
+}
+
+#pricing {
+    background-color: #e9546a;
+    text-align: center;
+}
+
+.card-body { 
+    background-color: #e9546a;
+}
+.card-header {
+    background-color: #ef8172;
+}
+
+
+
+
+
+
+/* media query*/
+
+
+
+@media (max-width: 992px) {
+
+
+.doginphone {
+    position: static;
+    transform: rotate(0) ;
+}
+
+
+}
+
+
+
+
+
+
+/* just above footer*/
+
+#cta {
+background-color: #ff4c68;
+padding: 0% 10%;
+text-align: center;
+
+
+
+
+}
+.text {
+    font-weight: 900;
+    line-height: 1.5;
+    padding: 2% 25%;
+    
+}
+
+/*footer*/
+
+#footer {
+    background-color: white;
+    padding: 1% 5%;
+    text-align: center;
+}
+.writing {
+    color: black;
+    margin-top: 10px;
+}
+.fab {margin-top: 10px;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+.fas {
+    margin-top: 10px;
+margin-left: 5px;
+margin-right: 5px;
+}
